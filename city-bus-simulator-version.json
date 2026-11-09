@@ -1,4 +1,10 @@
 {
-  "latestCode": 1,
-  "message": "A new version of City Bus Simulator is available!"
+  "latestCode": 2,
+  "minCode": 0,
+  "message": "Bus Simulator 1.0.1 is here! Update for a smoother ride.",
+  "messages": [
+    "Update 1.0.1 is ready: the pause button now responds every time and the intro camera runs smoother.",
+    "New version on the road! The big trucks with bouncing trailers are gone from traffic. Update now.",
+    "Bus Simulator 1.0.1: a cleaner driving screen and bug fixes. Update to get the best ride."
+  ]
 }
