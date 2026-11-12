@@ -1,10 +1,10 @@
 {
-  "latestCode": 1,
+  "latestCode": 2,
   "minCode": 0,
-  "message": "A new version of Taxi Simulator is available!",
+  "message": "Taxi Simulator 1.0.1 is here! Update for free cash rewards, a x2 shift bonus and smoother driving.",
   "messages": [
-    "A fresh update is ready for your cab! Update now for the newest rides and smoother driving.",
-    "Your passengers are waiting! The new version brings fixes and improvements across the city.",
-    "New update on the road! Get it now and keep your taxi running at its best."
+    "Your cab just got better! Update now for free cash rewards and a x2 bonus after every shift.",
+    "New update on the road! Free $100 rewards, smoother driving controls and bug fixes. Update now.",
+    "Update Taxi Simulator to the newest version: more rewards for every shift and a smoother ride."
   ]
 }
