@@ -1,10 +1,10 @@
 {
-  "latestCode": 3,
+  "latestCode": 4,
   "minCode": 0,
-  "message": "Bus Simulator 1.0.2 is here! Update for free cash rewards, extra route time and smoother driving.",
+  "message": "Bus Simulator 1.0.3 is here! New driver view, traffic lights and a traffic warden at the last stop.",
   "messages": [
-    "Your bus just got better! Update now for FREE $100 rewards and double earnings after every route.",
-    "Running late? The new version adds +45 seconds to the clock when you need it. Update now!",
-    "Bus Simulator 1.0.2: more rewards, a MORE GAMES button and bug fixes. Update for the best ride."
+    "Drive from the driver's seat! Update now for the new cab view with a turning steering wheel.",
+    "Traffic lights are here: stop on red, drive clean and earn a $50 bonus from the traffic warden. Update now!",
+    "Bus Simulator 1.0.3: new gear lever, smoother camera, new garage and driving music. Update for the best ride."
   ]
 }
