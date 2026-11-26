@@ -1,10 +1,10 @@
 {
-  "latestCode": 4,
+  "latestCode": 3,
   "minCode": 0,
-  "message": "Taxi Simulator 1.0.3 is here! A shorter first shift, no more overheating cab, calmer passengers and no ad before a shift. Update now!",
+  "message": "Taxi Simulator 1.0.2 is here! Update now for the new taxi app icon and smoother, more stable rides.",
   "messages": [
-    "Your cab got an upgrade! No more overheating when you push the accelerator. Update now.",
-    "Taxi Simulator 1.0.3: shorter first shift, more patient passengers and fewer interruptions.",
-    "No ad before your shift anymore! Update Taxi Simulator for a smoother night on the road."
+    "A fresh update for your cab! Get the new taxi icon and small fixes for a smoother ride. Update now.",
+    "Taxi Simulator 1.0.2 is ready: new home-screen icon, stability fixes and smoother driving.",
+    "Update Taxi Simulator to the newest version for the best night-shift experience."
   ]
 }
