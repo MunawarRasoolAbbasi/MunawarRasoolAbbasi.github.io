@@ -1,10 +1,10 @@
 {
-  "latestCode": 4,
+  "latestCode": 5,
   "minCode": 0,
-  "message": "Taxi Simulator 1.0.3 is here! A shorter first shift, no more overheating cab, calmer passengers and no ad before a shift. Update now!",
+  "message": "Taxi Simulator 1.0.4 is here! New modes: Rush Hour, Airport Express and Parking, passengers with personality, a daily bonus and daily missions. Update now!",
   "messages": [
-    "Your cab got an upgrade! No more overheating when you push the accelerator. Update now.",
-    "Taxi Simulator 1.0.3: shorter first shift, more patient passengers and fewer interruptions.",
-    "No ad before your shift anymore! Update Taxi Simulator for a smoother night on the road."
+    "New modes! Rush Hour, Airport Express and Parking. Update Taxi Simulator now.",
+    "Taxi Simulator 1.0.4: daily bonus, 3 daily missions and a reward chest. Update to claim yours!",
+    "Rain, fog, 6 camera views incl. cockpit, and a cleaner route line. Update now!"
   ]
 }
