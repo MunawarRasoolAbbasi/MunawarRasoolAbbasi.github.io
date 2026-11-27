@@ -1,10 +1,10 @@
 {
-  "latestCode": 5,
+  "latestCode": 6,
   "minCode": 0,
-  "message": "Bus Simulator 1.0.4 is here! New first routes along the beach and past the city park, an easier first route and no ads before a route. Update now!",
+  "message": "Bus Simulator 1.0.5 is here! New game modes: Bus Parking, Rush Hour, Night Route and School Run. Passengers now board, sit and rate your driving. Update now!",
   "messages": [
-    "New routes by the beach and the city park! Update Bus Simulator now.",
-    "Bus Simulator 1.0.4: a shorter, easier first route to learn the bus. Update for the best ride.",
-    "Fewer interruptions: no ads before a route or when you pause. Update now!"
+    "New game modes! Bus Parking, Rush Hour, Night Route and School Run. Update Bus Simulator now.",
+    "Bus Simulator 1.0.5: daily bonus, 3 daily missions and a reward chest. Update to claim yours!",
+    "Rain, fog, night and 7 camera views, including the door view. Update now!"
   ]
 }
