@@ -166,3 +166,6 @@ thebrave.io, 1234634, RESELLER, c25b2154543746ac
 bid-matrix.com, f2c71a45ea149366, RESELLER
 improvedigital.com, 2297, RESELLER
 improvedigital.com, 2464, RESELLER
+
+# Liftoff Monetize (Vungle) — mediation via AdMob
+vungle.com, 6b09edd719724f55b8bf0d43, DIRECT, c107d686becd2d77
